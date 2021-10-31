@@ -1,4 +1,4 @@
 provider "aws" {
-  region = var.region
-  profile = "terrform"
+  region = var.aws_region
+  profile = "terraform"
 }
